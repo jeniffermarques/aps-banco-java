@@ -25,7 +25,7 @@ O objetivo desse projeto é criar um programa que segue os princípios de um ban
 
 Criei uma classe teste onde faço toda a manipulação da conta. Nesse programa existe um Menu de interação, onde dá pra fazer toda a movimentação da conta.
 
-#### Exemplo de código: :tw-2668:
+#### Exemplo de código: :
 ```java
 public class Banco {
     public static void main(String[] args) {
